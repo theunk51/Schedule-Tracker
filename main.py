@@ -1,0 +1,1 @@
+# I wanted to build this i java but I just used pythn for some reason
